@@ -1,3 +1,3 @@
 # are-you-dead-yet?
 
-MEMORYHACKERs.ORG
+MEMORYHACKER.ORG
